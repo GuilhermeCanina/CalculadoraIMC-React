@@ -21,4 +21,4 @@ npm start
 ```
 
 ## 🖼️ Imagem
-![IMC Screenshot](./assets/imc-preview.png)
+![IMC Screenshot](https://github.com/GuilhermeCanina/CalculadoraIMC-React/blob/466f829777a7bd4c5a194abaffb8f489e18ce241/assets/images/Captura%20de%20tela%202025-07-28%20082716.png)
