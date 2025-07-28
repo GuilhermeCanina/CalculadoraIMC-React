@@ -10,6 +10,7 @@ Aplicativo para calcular o Índice de Massa Corporal (IMC) a partir da altura e 
 ## 🛠️ Tecnologias Usadas
 - React
 - Expo
+- TypeScript
 
 ## ▶️ Como Executar
 ```bash
